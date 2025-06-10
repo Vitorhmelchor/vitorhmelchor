@@ -34,7 +34,7 @@ Me chamo Vitor Hugo, tenho 22 anos e estou cursando Análise e Desenvolvimento d
     align="left" 
     alt="Swagger"
     title="Swagger" 
-    width="80px" 
+    width="70px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg"
 />
