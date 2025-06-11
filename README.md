@@ -2,8 +2,13 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Vitor Hugo, tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas. Tenho foco em desenvolvimento backend e estou em busca da minha primeira oportunidade de emprego na área de tecnologia. Sou dedicado, curioso e gosto de entender como as coisas funcionam por trás dos sistemas. Estou sempre estudando e praticando para aprimorar minhas habilidades e construir uma base sólida para minha carreira como desenvolvedor.
-
+Desenvolvedor backend com foco em JavaScript e Node.js.
+Experiência em projetos pessoais com criação de APIs
+REST usando autenticação JWT, documentação com
+Swagger e integração com bancos de dados MySQL.
+Familiaridade com desenvolvimento web e conhecimentos
+básicos de frontend com HTML, CSS e JavaScript.
+Comprometido com boas práticas e aprendizado contínuo.
 ### 🤖 Linguagens e Tecnologias
           
 <img 
