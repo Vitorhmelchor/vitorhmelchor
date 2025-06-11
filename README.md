@@ -2,13 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Desenvolvedor backend com foco em JavaScript e Node.js.
-Experiência em projetos pessoais com criação de APIs
-REST usando autenticação JWT, documentação com
-Swagger e integração com bancos de dados MySQL.
-Familiaridade com desenvolvimento web e conhecimentos
-básicos de frontend com HTML, CSS e JavaScript.
-Comprometido com boas práticas e aprendizado contínuo.
+Me chamo Vitor Hugo, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend.Tenho experiência em projetos pessoais desenvolvendo APIs REST com Node.js e JavaScript, utilizando autenticação JWT, documentação com Swagger e integração com bancos de dados MySQL. Possuo também familiaridade com o desenvolvimento web e conhecimentos básicos de frontend com HTML, CSS e JavaScript. Sou comprometido com boas práticas de programação, organização de código e com o aprimoramento constante das minhas habilidades técnicas.
 ### 🤖 Linguagens e Tecnologias
           
 <img 
