@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Vitor Hugo 
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Vitor Hugo, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end.Tenho experiência em projetos pessoais desenvolvendo APIs REST com Node.js e JavaScript, utilizando autenticação JWT, documentação com Swagger e integração com bancos de dados MySQL. Possuo também familiaridade com o desenvolvimento web e conhecimentos básicos de frontend com HTML, CSS e JavaScript. Sou comprometido com boas práticas de programação, organização de código e com o aprimoramento constante das minhas habilidades técnicas.
 ### 🤖 Linguagens e Tecnologias
