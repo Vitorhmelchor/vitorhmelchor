@@ -80,7 +80,7 @@ Me chamo Vitor Hugo, tenho 22 anos e sou estudante de Análise e Desenvolvimento
     align="left" 
     alt="GitHub Stats" 
     height="150" 
-    style="padding-right: 10px;" 
+    style="padding-right: 15px;" 
     src="https://github-readme-stats.vercel.app/api?username=vitorhmelchor&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br"       
   />
 
@@ -88,7 +88,7 @@ Me chamo Vitor Hugo, tenho 22 anos e sou estudante de Análise e Desenvolvimento
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhmelchor&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=10" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhmelchor&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=20" 
   />
 
 </p>
